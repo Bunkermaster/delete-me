@@ -1,0 +1,14 @@
+{
+    "name": "yannlescouarnec/delete-me",
+    "description": "formation IAD",
+    "require": {
+        "twig/twig": "^1.18",
+        "phpunit/phpunit": "^4.6"
+    },
+    "authors": [
+        {
+            "name": "Ikimasoft",
+            "email": "yann@ikimasoft.fr"
+        }
+    ]
+}
